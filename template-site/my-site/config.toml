@@ -1,8 +1,9 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = ""
+title = "BIOS2 workshop"
 theme = "template-site"
 themesDir = "../.."
 languageCode = "en-us"
+relativeurls = true
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
