@@ -1,0 +1,111 @@
+[timotheepoisot]
+  name = "Timothée Poisot"
+  mugshot = "mugshots/timotheepoisot.jpg"
+  text = [
+    "Ecologist. Teaches data analysis, ecological modelling, and responsible use of data.",
+    "Associate Professor, [Department of Biological Sciences](http://bio.umontreal.ca), Université de Montréal"
+  ]
+  role = "Assistant professor"
+  [timotheepoisot.social]
+    email = "timothee.poisot@umontreal.ca"
+    twitter = "tpoi"
+    github = "tpoisot"
+    www = "http://armchairecology.blog/"
+
+[tanyastrydom]
+  name = "Tanya Strydom"
+  mugshot = "mugshots/tanyastrydom.jpg"
+  text = ["2020-, Ph.D. Common properties of species interactions networks across space."]
+
+[joeyburant]
+  name = "Joseph B. Burant"
+  mugshot = "mugshots/joeyburant.jpg"
+  text = ["2020-, Post-doctoral fellow with the Living Data Project."]
+  [joeyburant.social]
+    twitter = "jbburant"
+    github = "jbburant"
+    www = "http://jbburant.wordpress.com/"
+
+[normaforero]
+  name = "Norma Forero"
+  mugshot = "mugshots/normaforero.jpg"
+  text = ["2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
+
+[francisbanville]
+  name = "Francis Banville"
+  mugshot = "mugshots/francisbanville.jpg"
+  text = ["2020-, Ph.D. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
+  role = "PhD student"
+  [francisbanville.social]
+    email = "francis.banville@umontreal.ca"
+    twitter = "FrancisBanville"
+    github = "FrancisBanville"
+
+[graciellehigino]
+  name = "Gracielle Higino"
+  mugshot = "mugshots/gracielle.png"
+  text = ["2019-2020, visiting Ph.D. Biological interactions, environmental variables, and biogeographical species distributions."]
+  [graciellehigino.social]
+    email = "gracielle.teixeira.higino@umontreal.ca"
+    twitter = "graciellehigino"
+    github = "graciellehigino"
+    www = "https://graciellehigino.github.io/"
+
+[gabrieldansereau]
+  name = "Gabriel Dansereau"
+  mugshot = "mugshots/gabrieldansereau.jpg"
+  text = [
+    "2019-, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
+  ]
+  [gabrieldansereau.social]
+    email = "gabriel.dansereau@umontreal.ca"
+    twitter = "gabdansereau"
+    github = "gabrieldansereau"
+
+[andrewmacdonald]
+  name = "Andrew MacDonald"
+  mugshot = "mugshots/amcdonald.jpg"
+  text = [
+    "2019-, Post-doctoral researcher. Development of biodiversity indicators for the governmental monitoring of biodiversity.",
+    "2018-2019, Post-doctoral researcher. High-throughput processing of camera-trap data.",
+  ]
+
+[mathildebesson]
+  name = "Mathilde Besson"
+  mugshot = "mugshots/mathildebesson.jpg"
+  text = ["2016-, Ph.D. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
+
+[philippedesjardinsproulx]
+  name = "Philippe Desjardins-Proulx"
+  mugshot = "mugshots/philippedesjardinsproulx.jpg"
+  text = [
+    "2019-, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
+    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
+  ]
+  [philippedesjardinsproulx.social]
+    email = "philippe.desjardins.proulx@umontreal.ca"
+    twitter = "phdpqc"
+    github = "PhDP"
+    www = "https://phdp.github.io/"
+
+[andreannedupont]
+  name = "Andréanne Dupont"
+  mugshot = "mugshots/andreannedupont.jpg"
+  text = [
+    "2019-, M.Sc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
+  ]
+
+[valentinevolz]
+  name = "Valentine Volz"
+  mugshot = "mugshots/valentinevolz.png"
+  text = [
+    "2020, B.Sc. research assistant. Structural analysis of the host-sharing network of coronaviruses.",
+    "2021-, M.Sc. Spatial structure of ecological networks over large gradients."
+  ]
+
+[salomebouskila]
+  name = "Salomé Bouskila"
+  mugshot = "mugshots/salomebouskila.jpg"
+  text = [
+    "2021, M.Sc. research intern. Pathogen sharing in the global virome."
+  ]

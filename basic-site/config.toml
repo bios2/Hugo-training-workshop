@@ -1,0 +1,34 @@
+baseURL = "https://bios2.github.io/"
+languageCode = "en-ca"
+preserveTaxonomyNames = true
+
+[params]
+  title = "the<b>poisot</b>lab"
+  subtitle = "quantitative & computational ecology"
+  email = "timothee.poisot@umontreal.ca"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[menu]
+  [[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 1
+  [[menu.main]]
+    name = "Values"
+    url = "/values/"
+    weight = 2
+  [[menu.main]]
+    name = "Papers"
+    url = "/papers/"
+    weight = 4
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+  [[menu.main]]
+    name = "Software"
+    target = "_blank"
+    url = "https://github.com/PoisotLab/"
+    weight = 6
