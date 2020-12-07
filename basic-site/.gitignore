@@ -1,0 +1,6 @@
+_site/
+.sass-cache/*
+vendor/
+Gemfile.lock
+basic-site/public/
+template-site/my-site/public
